@@ -9,4 +9,3 @@ seaborn
 SQLAlchemy
 nbformat
 pytest
-apache-airflow
